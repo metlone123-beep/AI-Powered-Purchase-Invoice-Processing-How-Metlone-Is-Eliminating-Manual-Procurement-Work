@@ -32,9 +32,9 @@ For businesses processing high volumes of purchase invoices, this is not an occa
 
 ## The Solution
 
-Metlone's **AI-Powered Bulk Purchase Invoice Processing** automates the entire procurement invoice workflow — from upload to validation to posting — with minimal manual intervention.
+Metlone's **AI-Powered Bulk Purchase Invoice Processing** automates the entire procurement invoice workflow from upload to validation to posting with minimal manual intervention.
 
-Instead of your team opening invoices one by one and typing data into the system, they upload an entire folder of invoices in a single action. The AI takes over from there — extracting data, matching suppliers and products, validating records, and presenting a clean review interface before anything is posted to your books.
+Instead of your team opening invoices one by one and typing data into the system, they upload an entire folder of invoices in a single action. The AI takes over from there extracting data, matching suppliers and products, validating records, and presenting a clean review interface before anything is posted to your books.
 
 The result is a procurement function that is faster, more accurate, and far less dependent on individual manual effort.
 
@@ -57,7 +57,7 @@ The result is a procurement function that is faster, more accurate, and far less
 Select a folder of purchase invoices and upload them to Metlone in one action. No need to organise files or open invoices individually beforehand.
 
 ### Step 2 — AI Data Extraction
-Metlone's AI engine reads every invoice simultaneously. It extracts supplier names, product details, quantities, unit prices, tax amounts, and invoice numbers automatically — across different invoice formats and layouts.
+Metlone's AI engine reads every invoice simultaneously. It extracts supplier names, product details, quantities, unit prices, tax amounts, and invoice numbers automatically across different invoice formats and layouts.
 
 ### Step 3 — Smart Matching
 Extracted data is cross-referenced against your existing records:
@@ -66,7 +66,7 @@ Extracted data is cross-referenced against your existing records:
 - Invoices are matched to outstanding **purchase orders**
 
 ### Step 4 — Auto Supplier Creation
-If a supplier appears in an invoice but does not exist in your system, Metlone creates the supplier record automatically during the review stage — keeping the workflow uninterrupted.
+If a supplier appears in an invoice but does not exist in your system, Metlone creates the supplier record automatically during the review stage keeping the workflow uninterrupted.
 
 ### Step 5 — AI Validation and Review
 All extracted and matched data is presented in a clean review interface. Your team reviews the batch, makes any corrections needed, and approves it for posting. Errors and exceptions are flagged clearly so nothing slips through.
@@ -95,7 +95,7 @@ Metlone's AI-Powered Purchase Invoice Processing is designed for:
 - **Business owners** who need accurate accounts payable data without the administrative burden
 - **Operations teams** managing high-volume procurement during peak periods
 
-If your business processes more invoices than your team can comfortably handle manually — or if month-end reconciliation is a recurring source of stress — this capability was built for you.
+If your business processes more invoices than your team can comfortably handle manually or if month-end reconciliation is a recurring source of stress this capability was built for you.
 
 ## Get Started
 
