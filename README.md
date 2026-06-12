@@ -1,0 +1,2 @@
+# AI-Powered-Purchase-Invoice-Processing-How-Metlone-Is-Eliminating-Manual-Procurement-Work
+Metlone's AI-Powered Purchase Invoice Processing eliminates manual data entry by automating bulk invoice uploads, AI data extraction, smart supplier matching, and seamless posting. Finance teams process more invoices in less time with greater accuracy. Built for growing businesses. Powered by Gritstone Technologies.
