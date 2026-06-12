@@ -7,7 +7,7 @@ Every growing business reaches a point where manual invoice processing stops wor
 
 Invoices pile up. Errors creep in. Month end becomes a crisis. And the finance team spends more time on data entry than on work that actually matters.
 
-This document explains how **Metlone's AI-Powered Purchase Invoice Processing** solves this problem — automating the entire journey from bulk invoice upload to posted records, with speed, accuracy, and complete visibility at every stage.
+This document explains how **Metlone's AI-Powered Purchase Invoice Processing** solves this problem automating the entire journey from bulk invoice upload to posted records, with speed, accuracy, and complete visibility at every stage.
 
 ## The Problem
 
